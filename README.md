@@ -5,6 +5,7 @@ In this project I follow a DataQuest tutorial on how to build a NBA prediction f
 ***
 ## Dataquest Youtube Channel Plug
 Really impressed with Vikas Paruchuri's ability to walkthrough and breakdown the steps in his code alongs. Amazing resource for folks like myself who are trying to learn more about machine learning.
+***
 [Click Here](https://www.youtube.com/@Dataquestio) to visit Dataquest Channel! 
 
 ## Technologies Used
